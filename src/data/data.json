@@ -1,0 +1,80 @@
+{
+
+  "Gallery": [
+    {
+      "title": "Jungkook sketch",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Shinchen sketch",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "V sketch",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Ganesh wood painting",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Stone painting",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Paper flower",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Paper smiley",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Krishna painting",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Butterfly spray painting",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+ 
+ 
+  "Contact": {
+  
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-paint-brush",
+     
+      "text": "Artists websites should complement the art genre they showcase."
+    },
+    {
+      "icon": "fa fa-pencil",
+      
+      "text": "The best artist websites feature a section where they can update their fans about upcoming exhibits or shows."
+    },
+    {
+      "icon": "fa fa-eraser",
+
+      "text": "A good art portfolio website should have an overarching theme or concept."
+    },
+    {
+      "icon": "fa fa-cut",
+     
+      "text": "An art portfolio website, more than anything, should reflect your unique personality."
+    }
+  ]
+}
